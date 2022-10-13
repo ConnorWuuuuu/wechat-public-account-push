@@ -20,9 +20,9 @@ export const config = {
       {"name": "阿云", "year": "1998", "date": "06-13", "type": 'new'},
       {"name": "阿杰", "year": "2004", "date": "05-01", "type": 'new'},
     ],
-    // 在一起的日子，格式同上
+    // 相识相知
     meetingdate：2021-05-01
-    // 结婚纪念日
+    // 
     
     }
 
